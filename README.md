@@ -1,2 +1,3 @@
-# rimaki-s-school-project
-its for my school
+# Thanapat2 BK
+
+Source code contains all school works in bukaew kason school Class "การสร้าง HTML"
