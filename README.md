@@ -1,3 +1,3 @@
 # Thanapat2 BK
 
-Source code contains all school works in bukaew kason school Class "การสร้าง HTML"
+Source code contains all school works in โรงเรียนบัวแก้วเกสร Class "การสร้าง HTML"
